@@ -1,0 +1,19 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.versionsBackup
+
+# IDE
+.classpath
+.project
+.settings/
+.vscode/
+*.iml
+*.iws
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
